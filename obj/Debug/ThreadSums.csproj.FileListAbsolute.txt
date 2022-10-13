@@ -1,0 +1,8 @@
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Interfaces Gráficas\2Parcial_Threads\ThreadSums\bin\Debug\ThreadSums.exe.config
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Interfaces Gráficas\2Parcial_Threads\ThreadSums\bin\Debug\ThreadSums.exe
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Interfaces Gráficas\2Parcial_Threads\ThreadSums\bin\Debug\ThreadSums.pdb
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Interfaces Gráficas\2Parcial_Threads\ThreadSums\obj\Debug\ThreadSums.csproj.AssemblyReference.cache
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Interfaces Gráficas\2Parcial_Threads\ThreadSums\obj\Debug\ThreadSums.csproj.SuggestedBindingRedirects.cache
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Interfaces Gráficas\2Parcial_Threads\ThreadSums\obj\Debug\ThreadSums.csproj.CoreCompileInputs.cache
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Interfaces Gráficas\2Parcial_Threads\ThreadSums\obj\Debug\ThreadSums.exe
+C:\Users\emmft\OneDrive\Documentos\UASLP\7mo Semestre\Interfaces Gráficas\2Parcial_Threads\ThreadSums\obj\Debug\ThreadSums.pdb
